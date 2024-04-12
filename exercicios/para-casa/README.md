@@ -1,11 +1,44 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Descrevendo atividades do dia-a-dia condicionadas
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- Explicação do exercício: Excolha uma atividade comum no seu dia a dia que tenha condições para serem executadas, liste as possibilidade de uma forma logica assim como fizemos em sala de aula com o exemplo da atravessia de uma rua por um pedestre.
+
+ Exemplo:
+Lanvando roupa:
+1. Pego a roupa suja no balde
+2. Coloco a roupa de molho
+3. Vejo a roupa após umas horas
+    se ainda estiver com mancha adiciono alvejante
+    e se tiver uma mancha bem clara esfrego a roupa com escova
+    se não coloco na maquina para bater  
+4. Tiro da maquina 
+5. Penduro no varal
 ---
+## Desconto farmacia 
+
+- Explicação do exercício: 
+Farmacia Popular está em promoção. A cada 2 produtos iguais comprados(foque somente nos clientes sempre comprando dois produtos), receba 5 reais de desconto, se forem diferente mas um dos produtos for o codigo 0054 ele tem 50% de desconto nesse produto, se não valor não recebe desconto.Escreva um programa para auxiliar a farmacia a calcular o valor final do produto.
+
+1. salvar codigos que entram pelo input em uma variavel
+2. Fazer a logica da condição
+3. fazer ação de calcular desconto.
+4. retornar valor total
+
+[Arquivo do exercicio](exercicios/para-casa/exercicio_farmacia.py)
+
+---
+
+## Maior idade (desafio extra)
+- Explicação do exercício: desenvolva um sistema em que verifique se a pessoa pode dirigir no Brasil ou no estados unidos a partir da informação do ano de nascimento. Leve em consideração se a pessoa tem carteira de motorista.
+---
+
+## Expondo os erros e superando
+
+- Explicação do exercício: Se durante o exercicio anterior seu codigo aprensentar algum erro, copie o codigo, copie o erro e explique que erro que é e como irá soluciona-lo. 
+---
+
+
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
 
