@@ -2,30 +2,26 @@
 
 ## Descrevendo atividades do dia-a-dia condicionadas
 
-- Explicação do exercício: Excolha uma atividade comum no seu dia a dia que tenha condições para serem executadas, liste as possibilidade de uma forma logica assim como fizemos em sala de aula com o exemplo da atravessia de uma rua por um pedestre.
+Explicação do exercício: Escolha uma atividade comum no seu dia a dia que tenha condições para serem executadas, liste as possibilidade de uma forma logica assim como fizemos em sala de aula com o exemplo da travessia de uma rua por um pedestre.
+Exemplo: Lavando roupa:
 
- Exemplo:
-Lanvando roupa:
-1. Pego a roupa suja no balde
-2. Coloco a roupa de molho
-3. Vejo a roupa após umas horas
-    se ainda estiver com mancha adiciono alvejante
-    e se tiver uma mancha bem clara esfrego a roupa com escova
-    se não coloco na maquina para bater  
-4. Tiro da maquina 
-5. Penduro no varal
+1-Pego a roupa suja no balde
+2-Coloco a roupa de molho
+Vejo a roupa após umas horas se ainda estiver com mancha adiciono alvejante e se tiver uma mancha bem clara esfrego a roupa com escova se não coloco na 3-maquina para bater
+4-Tiro da maquina
+5-Penduro no varal
 ---
 ## Desconto farmacia 
 
 - Explicação do exercício: 
 Farmacia Popular está em promoção. A cada 2 produtos iguais comprados(foque somente nos clientes sempre comprando dois produtos), receba 5 reais de desconto, se forem diferente mas um dos produtos for o codigo 0054 ele tem 50% de desconto nesse produto, se não valor não recebe desconto.Escreva um programa para auxiliar a farmacia a calcular o valor final do produto.
 
-1. salvar codigos que entram pelo input em uma variavel
+1. salvar códigos que entram pelo input em uma variável
 2. Fazer a logica da condição
 3. fazer ação de calcular desconto.
 4. retornar valor total
 
-[Arquivo do exercicio](exercicios/para-casa/exercicio_farmacia.py)
+[Arquivo do exercício](exercicios/para-casa/exercicio_farmacia.py)
 
 ---
 
@@ -35,7 +31,7 @@ Farmacia Popular está em promoção. A cada 2 produtos iguais comprados(foque s
 
 ## Expondo os erros e superando
 
-- Explicação do exercício: Se durante o exercicio anterior seu codigo aprensentar algum erro, copie o codigo, copie o erro e explique que erro que é e como irá soluciona-lo. 
+- Explicação do exercício: Se durante o exercicio anterior seu codigo aprensentar algum erro, copie o código, copie o erro e explique que erro que é e como irá soluciona-lo. 
 ---
 
 
