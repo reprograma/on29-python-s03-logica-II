@@ -20,10 +20,10 @@ else:
     if primeiro_produto == 0054 or segundo_produto == 0054:
         print("Desconto de 50%")
         if primeiro_produto == 0054 and segundo_produto == 0054:
-            print("Total de (10.4+10.4)*5/100 = 10.4 reais")
+            print("Total de (10.4+10.4)*50/100 = 10.4 reais")
         elif primeiro_produto == 0054 and segundo_produto == 0053:
-            print("Total de (10.4+4.6)*5/100 = 7.5 reais")
+            print("Total de (10.4+4.6)*50/100 = 7.5 reais")
         elif primeiro_produto == 0054 and segundo_produto == 0045:
-            print("Total de (10.4+50)*5/100 = 30.2 reais")
+            print("Total de (10.4+50)*50/100 = 30.2 reais")
     else:
         print("Não recebe nenhum desconto")
