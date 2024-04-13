@@ -6,8 +6,8 @@ preco_codigo_0045 = 50.0
 primeiro_produto = int(input())
 segundo_produto = int(input())
 
-- Explicação do exercício: 
-Farmacia Popular está em promoção. A cada 2 produtos iguais comprados(foque somente nos clientes sempre comprando dois produtos), receba 5 reais de desconto, se forem diferente mas um dos produtos for o codigo 0054 ele tem 50% de desconto nesse produto, se não valor não recebe desconto.Escreva um programa para auxiliar a farmacia a calcular o valor final do produto.
+'''- Explicação do exercício: 
+Farmacia Popular está em promoção. A cada 2 produtos iguais comprados(foque somente nos clientes sempre comprando dois produtos), receba 5 reais de desconto, se forem diferente mas um dos produtos for o codigo 0054 ele tem 50% de desconto nesse produto, se não valor não recebe desconto.Escreva um programa para auxiliar a farmacia a calcular o valor final do produto.'''
 
 # desenvolva a logica condicional
 if primeiro_produto == segundo_produto:
