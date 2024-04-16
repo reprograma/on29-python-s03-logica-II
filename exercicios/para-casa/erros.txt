@@ -1,7 +1,36 @@
 #CODIGO
+no_nascimento = input(("INSERIR ANO DE NASCIMENTO: "))
+ano_atual = 2024
+idade_atual = ano_atual - ano_nascimento
+# IDADE POR PAÍS PARA PODER DIRIGIR
+
+maior_idade_br = 18
+maior_idade_eua = 16
+if idade_atual >= maior_idade_br:
+    print("Já pode dirigir sim no Brasil!")
+elif idade_atual < maior_idade_br:
+    print("Não vai tá podendo dirigir no Brasil não!")
+
+if idade_atual >= maior_idade_eua:
+    print("Já pode dirigir sim no EUA!")
+elif idade_atual < maior_idade_eua:
+    print("Não vai tá podendo dirigir no EUA não!")
+
+
+print("FIM DO PROGRAMA!")
+      
 
 
 #ERRO
-
+INSERIR ANO DE NASCIMENTO: 2005
+Traceback (most recent call last):
+  File "C:\Users\Usuário\Desktop\reprograma\aula3\on29-python-s03-logica-II\exercicios\para-casa\maior_idade.py", line 8, in <module>
+    idade_atual = ano_atual - ano_nascimento
+                  ~~~~~~~~~~^~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'int' and 'str'
 
 #DESCREVA O ERRO APRESENTADO E SOLUÇÃO
+
+# o erro acontece diante da soma que não pode ser feita entre dois tipos diferentes de valores. Um é um número, e o outro são palavras. Int e str
+# para que essa soma seja possível, precisamos transformar o str em int na exata operação que está sendo feita:
+"idade_atual = ano_atual - int(ano_nascimento)"
