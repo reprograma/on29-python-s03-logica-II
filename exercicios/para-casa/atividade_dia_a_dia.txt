@@ -1,1 +1,10 @@
-#DESCREVA A ATIVIDADE
+#Lavando o quintal
+
+1 - Pego a vassoura, o detergente e o rodo e deixo ao lado da mangueira;
+2 - Ando pelo quintal para procurar xixi e cocô das cachorras:
+    3 - Se só tiver xixi, pego a vasoura e detergente e esfrego a mancha de xixi;
+    4 - Se só tiver cocô, pego uma sacola de plástico e recolho o cocô;
+    5 - Senão, se tiver tanto xixi quanto cocô, pego a vasoura e detergente e esfrego a mancha de xixi e pego uma sacola de plástico e recolho o cocô;
+ 6 - Abro a mangueira e molho o quintal;
+ 7 - Fecho a mangueira;
+ 8 - Pego o rodo e seco a parte escorregadia.
