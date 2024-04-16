@@ -1,1 +1,16 @@
-#DESCREVA A ATIVIDADE
+#Fazer macarrão:
+
+# 1.	Colocar água para ferver
+# 2.	Colocar sal na água
+# 3.	Colocar o macarrão na água
+# 4.	Deixar ferver por 8 minutos
+# 5.	O macarrão esta mole?
+    #a.	sim = seguir para o próximo passo;
+    #b.	não = deixar cozinhar por mais 5 minutos
+# 6.	Escorrer o macarrão;
+# 7.	A visita e vegetariana?
+    #a.	não = preparar molho bolonhesa;
+    #b.	sim = preparar molho sugo
+# 8.	misturar o macarrão no molho
+# 9.	Colocar queijo ralado
+# 10.	Bom apetite!
