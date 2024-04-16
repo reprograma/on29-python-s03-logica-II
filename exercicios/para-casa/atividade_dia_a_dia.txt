@@ -1,1 +1,9 @@
-#DESCREVA A ATIVIDADE
+# Fazendo o café de manhã
+# Primeiro pego a panela e coloco a agua dentro. Em seguida vou ate o fogao,
+#giro o botao do gas, aperto o botao de ligar e coloco a panela com agua em cima.
+# pego a garrafa de cafe e retiro a tampa. Pego o filtro e coloco na boca da
+#garrafa. Em seguida coloco o po de cafe dentro do filtro.
+# Abro a vasilha com o café, pego uma colher e com ela retiro o café da vasilha
+# e coloco dentro do filtro. Quando a agua estiver fervendo, desligo o fogo e em
+# seguida coloco a agua dentro do filtro. Após a agua passar pelo filtro, retiro
+# o mesmo e fecho a garrafa de café.
