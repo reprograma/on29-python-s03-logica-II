@@ -22,13 +22,40 @@ v3= 40
 v4= 50
 promo= 5
 
-desct_especial= v4 / 50 
+desct_especial= v4 * 0.50 
 
 
 produto1_cliente= input("Informe o primeiro código do produto: ")
 produto2_cliente= input("Informe o segundo código do produto: ")
 
 
-if produto1_cliente == p0 or produto2_cliente == p0:
+if produto1_cliente == p0 and produto2_cliente == p0:
     valor_total= (v0*2) - promo
     print("Esse é o valor p0", valor_total)
+elif produto1_cliente == p1 and produto2_cliente == p1:
+    valor_total= (v1*2) - promo
+    print("Esse é o valor p1", valor_total)
+elif produto1_cliente == p2 and produto2_cliente == p2:
+    valor_total= (v2*2) - promo
+    print("Esse é o valor p2", valor_total)
+elif produto1_cliente == p3 and produto2_cliente == p3:
+    valor_total= (v3*2) - promo
+    print("Esse é o valor p0", valor_total)
+elif produto1_cliente == p4 and produto2_cliente == p4:
+    valor_total= desct_especial
+    print("Esse é o valor p4", valor_total)
+    
+elif produto1_cliente and produto2_cliente == p0 and produto1_cliente and produto2_cliente == p4:
+        valor_total= v0 + desct_especial
+        print("V0 com 0054:", valor_total)
+elif produto1_cliente and produto2_cliente == p1 and produto1_cliente and produto2_cliente == p4:
+        valor_total= v1 + desct_especial
+        print("V1 com 0054:", valor_total)
+elif produto1_cliente and produto2_cliente == p2 and produto1_cliente and produto2_cliente == p4:
+        valor_total= v2 + desct_especial
+        print("V1 com 0054:", valor_total)
+elif produto1_cliente and produto2_cliente == p3 and produto1_cliente and produto2_cliente == p4:
+        valor_total= v3 + desct_especial
+        print("V1 com 0054:", valor_total)
+else:
+    print("Não tem desconto")
