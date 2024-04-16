@@ -1,7 +1,57 @@
 #CODIGO
 
+ano_nasc = int(input("Insira seu ano de nascimento: "))
+idade = 2024 - ano_nasc
+
+if idade >= 18:
+  cart_moto = input("Você possui carteira de motorista no Brasil? (SIM/NÃO): ").lower()
+  if cart_moto == "sim":
+    print("Você pode dirigir tanto no Brasil quanto nos EUA!")
+  else:
+    print("Você não pode dirigir nem no Brasil nem nos EUA, mas já está autorizado a tirar sua carteira de motorista em ambos os países!")
+else:
+  if idade >= 16:
+    print("Você ainda não pode dirigir no Brasil (nem tirar sua carteira) mas pode tirar sua carteira e dirigir nos EUA!")
+  else:
+    print("Você ainda não pode tirar sua carteira nem nos EUA nem no Brasil, muito menos dirigir!")
 
 #ERRO
 
+Insira seu ano de nascimento: Dois mil e dez
+---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+<ipython-input-11-b8c2fd42793a> in <cell line: 4>()
+      2 #Leve em consideração se a pessoa tem carteira de motorista.
+      3 
+----> 4 ano_nasc = int(input("Insira seu ano de nascimento: "))
+      5 idade = 2024 - ano_nasc
+      6 
+
+ValueError: invalid literal for int() with base 10: 'Dois mil e dez'
 
 #DESCREVA O ERRO APRESENTADO E SOLUÇÃO
+
+ERRO: O erro ocorreu na tentativa do usuário de inserir seu ano de nascimento na forma escrita, ao invés de números. 
+Por isso, adicionei um try/except como forma de tratar o problema.
+
+SOLUÇÃO:
+
+try:
+  ano_nasc = int(input("Insira seu ano de nascimento: "))
+except:
+  print("Ano de nascimento inválido!")
+  ano_nasc = int(input("Insira-o novamente na forma numérica: "))
+
+idade = 2024 - ano_nasc
+
+if idade >= 18:
+  cart_moto = input("Você possui carteira de motorista no Brasil? (SIM/NÃO): ").lower()
+  if cart_moto == "sim":
+    print("Você pode dirigir tanto no Brasil quanto nos EUA!")
+  else:
+    print("Você não pode dirigir nem no Brasil nem nos EUA, mas já está autorizado a tirar sua carteira de motorista em ambos os países!")
+else:
+  if idade >= 16:
+    print("Você ainda não pode dirigir no Brasil (nem tirar sua carteira) mas pode tirar sua carteira e dirigir nos EUA!")
+  else:
+    print("Você ainda não pode tirar sua carteira nem nos EUA nem no Brasil, muito menos dirigir!")
