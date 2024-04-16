@@ -1,1 +1,13 @@
 #DESCREVA A ATIVIDADE
+
+limpando o quintal:
+
+SE quintal com fezes:
+    recolher as fezes
+Jogar água e sabão
+Esfregar com a vassoura
+SE mancha no chão:
+    Esfregar com mais força
+SENÃO:
+    Jogar água
+Finaliza rapando a água da superfície
