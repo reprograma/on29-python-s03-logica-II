@@ -1,1 +1,25 @@
 #DESCREVA A ATIVIDADE
+Exercício 01
+Tirar Lixo da Cozinha 
+
+→ Ir até a cozinha
+→ Me aproxinar do Lixo Orgânico 
+→ Abrir a tampa do Lixo 
+→ Olhar se o lixo está cheio 
+
+Se estiver pouco lixo:
+→ Pegar o lixo menor
+→ Despejar o lixo menor dentro do lixo maior 
+→ Retornar com o lixo vazio para o lugar dele
+
+Se o lixo estiver cheio:
+
+→ Retirar o Lixo 
+→ Amarrar o Saco do Lixo 
+→ Levar o Lixo para área de Serviço
+→ Lavar as mãos 
+→ Pegar um saco limpo
+→ Colocar no cesto do lixo 
+→ Fechar a tampa 
+→ Pegar o lixo da área de serviço 
+→ Levar o lixo para o local apropriado no condomínio.
