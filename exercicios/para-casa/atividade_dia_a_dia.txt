@@ -1,1 +1,20 @@
 #DESCREVA A ATIVIDADE
+
+Exemplo: Fazendo café
+
+Pegar o pó de café
+Pegar a leiteira
+Encher a leiteira de água
+Adicionar as medidas de café
+Ligar o fogão
+Colocar a leiteira com água e café no fogo
+Se a água na leiteira estiver fervendo então
+    Desligar o fogão
+    Pegar a leiteira
+    Separar o coador e a garrafa térmica
+    Colocar o coador na garrafa térmica 
+    Coar o café
+    Café pronto e quentinho
+Senão
+    Continuar esperando até que a água esteja fervendo
+Fim Se
