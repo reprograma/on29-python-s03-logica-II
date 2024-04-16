@@ -1,7 +1,1 @@
-#CODIGO
-
-
-#ERRO
-
-
-#DESCREVA O ERRO APRESENTADO E SOLUÇÃO
+#Conforme combinado com a professora Dari, os erros ficaram comentados no exercício da farmácia, junto dos códigos que deram algum tipo de bug.
