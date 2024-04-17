@@ -1,1 +1,10 @@
 #DESCREVA A ATIVIDADE
+
+Atividade do dia-a-dia: Pegar o ônibus para ir trabalhar
+
+1. Checo no aplicativo que horas o ônibus irá sair na parada mais próxima
+2. Se o ônibus estiver próximo de passar, saio de casa
+3. Se demorar para passar, aguardo mais em casa
+4. Vou para a parada de ônibus com 10 minutos de antecedência ao horário informado pelo aplicativo
+5. Aguardo na parada de ônibus
+6. Pego o ônibus
