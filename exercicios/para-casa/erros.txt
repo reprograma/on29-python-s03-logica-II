@@ -1,7 +1,9 @@
 #CODIGO
+cnh = int(input("Você possui CNH? Responda com sim ou não. "))
 
 
 #ERRO
-
+ValueError: invalid literal for int() with base 10: 'sim'
 
 #DESCREVA O ERRO APRESENTADO E SOLUÇÃO
+transformar a reposta de sim e não para numeros
