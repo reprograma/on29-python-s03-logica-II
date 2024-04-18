@@ -1,7 +1,62 @@
-#CODIGO
+Exercicios farmacia :
 
+Ao realizar o codigo, me toquei que a pessoa poderia colocar valores invalidos. Então coloquei em uma função para que o programa voltasse 
+ao inicio toda vez que o valor fosse invalido.
 
-#ERRO
+# quando testei o programa colocando valor que fosse invalido, deu dois valores totais, eu não sei bem , mas acredito que ficava valores residuais 
+nas variaveis: primeiro_produto e segundo_produto.
+coloquei embaixo para a senhora ver.
 
+{FÁRMACIA POPULAR
 
-#DESCREVA O ERRO APRESENTADO E SOLUÇÃO
+Na compra de dois produtos iguais, receba 5,00 reais de desconto!
+
+Escolha os produto, selecionando um número de 1 a 4:
+[1] Sabonete Líquido Nívea (1l) = 12,59
+[2] Pasta de Dente SENDODYNE (250g) = 15,78
+[3] Escova de dente Colgate (2un.) = 23,89
+[4] Mascara de Tratamento = 59,99
+
+4
+6
+Valor Inválido!
+Você será redirecionado(a) para o menu de seleção novamente.
+
+FÁRMACIA POPULAR
+
+Na compra de dois produtos iguais, receba 5,00 reais de desconto!
+
+Escolha os produto, selecionando um número de 1 a 4:
+[1] Sabonete Líquido Nívea (1l) = 12,59
+[2] Pasta de Dente SENDODYNE (250g) = 15,78
+[3] Escova de dente Colgate (2un.) = 23,89
+[4] Mascara de Tratamento = 59,99
+
+2
+4
+O valor da sua compra foi: 75.77 reais
+Obrigada, volte sempre!
+O valor da sua compra foi: 65.99000000000001 reais
+Obrigada, volte sempre!}
+
+então pesquisei como limpar variaveis e coloquei antes de voltar para o inicio do programa, tentei de varias formas, 
+ai vi um return depois de mandar o programa voltar para o inicio:
+
+if (primeiro_produto < 1 or primeiro_produto > 4) or (segundo_produto < 1 or segundo_produto > 4):
+        print("Valor Inválido!\nVocê será redirecionado(a) para o menu de seleção novamente.")
+       
+        programa()
+        return
+
+ENTÃO DEU CERTO.... 
+
+erros exercicios 2
+
+Traceback (most recent call last):
+  File "C:\Users\pamel\OneDrive\Área de Trabalho\Repositorios_Repprograma\Aula_3\on29-python-s03-logica-II\exercicios\para-casa\maior_idade.py", line 14, in <module>
+    idade = data - idade
+            ~~~~~^~~~~~~
+TypeError: unsupported operand type(s) for -: 'datetime.date' and 'str'
+
+coloquei como inteiro depois de receber via input
+  

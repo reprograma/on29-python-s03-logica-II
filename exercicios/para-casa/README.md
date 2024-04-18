@@ -10,7 +10,7 @@ Exemplo: Lavando roupa:
 Vejo a roupa após umas horas se ainda estiver com mancha adiciono alvejante e se tiver uma mancha bem clara esfrego a roupa com escova se não coloco na 3-maquina para bater
 4-Tiro da maquina
 5-Penduro no varal
----
+--- Feiotp!
 ## Desconto farmacia 
 
 - Explicação do exercício: 
