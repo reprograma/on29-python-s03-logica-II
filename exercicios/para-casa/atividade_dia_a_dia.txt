@@ -1,1 +1,63 @@
-#DESCREVA A ATIVIDADE
+
+# Prepararo do arroz:
+
+                            1 Abra o armário;
+                                    |
+                        2 Verifique se tem arroz;
+                                    |
+            se  (v)----------------   ----------------(F)
+                 |                                     |
+                 |             3. Peça ao companheiro(a), para ir ao mercado comprar;            
+                 |                                     |
+                  -----------------   -----------------
+                                    |
+    4 pegar panela e tampa no armario, mantenteiga e tempero na geladeira;     
+                                    |                                                          
+    5 encha um recepiente médio com agua em temperatura ambiente, reserve;            
+                                    |
+                             6Ligue o gás;
+                                    |
+                        7 Acenda a chama do fogão (no nivel baixo);
+                                    |
+                            8 Coloque a panela (em cima da chama);
+                                    |
+9 Acrecente na panela (1 colher de sopa ) manteiga, logo em seguida o 1/2 xícara de arroz;
+                                    |
+                    10 Após alguns minutos acrescente o tempero a gosto;
+                                    |
+                11 Mexa em pequenos intervalos até o arroz e tempero ficar bem refogado;
+                                    |
+                     12 Acrescente a agua do passo 4;
+                                    |
+                    13 Aumente a chama para nivel alto;
+                                    |
+                  14  verifique se o arroz está com sal (a gosto);
+                                    |
+            se  (v)----------------    ----------------(F) 
+                 |                                      |
+                 |                          15 Acrescente sal a gosto;
+                 |                                      |
+                  -----------------    -----------------
+                          16 Tampe e aguarde 15 min;  
+                                     |
+                    17 Verifique se o arroz está cozido;
+                                     |
+             se  (v)----------------   ---------------(F)
+                  |                                    |
+                  |               18 Acrescente mais água, aguarde alguns minutos;
+                  |                                    |
+                   -----------------   ----------------
+                                     | 
+                           19 Desligue a chama;
+                                     |
+                         20 print("O Arroz está pronto!")
+
+
+
+                                    
+
+
+
+
+
+
