@@ -1,0 +1,19 @@
+#1- Descrevendo atividades do dia-a-dia condicionadas. 
+
+* Atividade cotidiana: Cozinhar feijão.
+- Pego o pacote de 1kg de feijão no armário de cozinha
+- Coloco na panela de pressão metade do pacote do feijão
+- Abro a torneira de água
+- Preencho a panela de pressão com 2 litros de água
+- Pego a tampa da panela de pressão
+- Fecho bem a panela
+- Coloco no fogão
+- Acendo a boca do fogão que a panela de pressão está
+- Coloco para cozinhar
+- Se o feijão foi colocado de molho antes, cozinhar somente meia hora
+- Caso contrário, cozinhar 45 minutos.
+- Desligar o fogão depois do tempo determinado de cozimento
+- Tirar a pressão da panela
+- Abrir a panela de pressão
+- Se ainda estiver duro, cozinhar mais 10 minutos na pressão até ficar no ponto desejado.
+- Caso contrário, cozimento finalizado e pode temperá-lo como quiser.
